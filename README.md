@@ -1,7 +1,5 @@
 ###Doradla Naga Sushma
 -----------------------
-
-
 ####About:
 - Iam D.Naga Sushma studying Btech in R.V.R & J.C COLLEGE OF ENGINEERING
 
